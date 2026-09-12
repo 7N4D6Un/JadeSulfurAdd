@@ -1,0 +1,18 @@
+{
+	"modmenu.descriptionTranslation.jadesulfuradd": "为 Jade 添加硫方怪的原型显示。",
+	"jadesulfuradd.tooltip.archetype": "原型: %s",
+	"jadesulfuradd.archetype.default": "默认",
+	"jadesulfuradd.archetype.regular": "普通",
+	"jadesulfuradd.archetype.bouncy": "弹性",
+	"jadesulfuradd.archetype.slow_bouncy": "缓慢弹性",
+	"jadesulfuradd.archetype.slow_flat": "缓慢平移",
+	"jadesulfuradd.archetype.fast_flat": "快速平移",
+	"jadesulfuradd.archetype.light": "轻盈",
+	"jadesulfuradd.archetype.fast_sliding": "快速滑行",
+	"jadesulfuradd.archetype.slow_sliding": "缓慢滑行",
+	"jadesulfuradd.archetype.high_resistance": "高阻力",
+	"jadesulfuradd.archetype.sticky": "黏性",
+	"jadesulfuradd.archetype.explosive": "爆炸",
+	"jadesulfuradd.archetype.hot": "高温",
+	"config.jade.plugin_jadesulfuradd.sulfur_cube_archetype": "硫方怪原型"
+}

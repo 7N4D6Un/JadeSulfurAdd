@@ -1,0 +1,18 @@
+{
+	"modmenu.descriptionTranslation.jadesulfuradd": "Add the Sulfur Cube archetype display to Jade.",
+	"jadesulfuradd.tooltip.archetype": "Archetype: %s",
+	"jadesulfuradd.archetype.default": "Default",
+	"jadesulfuradd.archetype.regular": "Regular",
+	"jadesulfuradd.archetype.bouncy": "Bouncy",
+	"jadesulfuradd.archetype.slow_bouncy": "Slow Bouncy",
+	"jadesulfuradd.archetype.slow_flat": "Slow Flat",
+	"jadesulfuradd.archetype.fast_flat": "Fast Flat",
+	"jadesulfuradd.archetype.light": "Light",
+	"jadesulfuradd.archetype.fast_sliding": "Fast Sliding",
+	"jadesulfuradd.archetype.slow_sliding": "Slow Sliding",
+	"jadesulfuradd.archetype.high_resistance": "High Resistance",
+	"jadesulfuradd.archetype.sticky": "Sticky",
+	"jadesulfuradd.archetype.explosive": "Explosive",
+	"jadesulfuradd.archetype.hot": "Hot",
+	"config.jade.plugin_jadesulfuradd.sulfur_cube_archetype": "Sulfur Cube Archetype"
+}

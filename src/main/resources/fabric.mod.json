@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "jadesulfuradd",
+	"version": "${version}",
+	"name": "JadeSulfurAdd",
+	"description": "Add the Sulfur Cube archetype display to Jade.",
+	"authors": [
+		"FleTime"
+	],
+	"contact": {
+		"sources": "https://github.com/7N4D6Un/JadeSulfurAdd"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/jadesulfuradd/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.fletime.jadesulfuradd.JadeSulfurAdd"
+		],
+		"jade": [
+			"com.fletime.jadesulfuradd.JadeSulfurAdd"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"jade": "*"
+	}
+}
